@@ -8,3 +8,4 @@
 - 2026-07-05 polish header
 - 2026-07-06 layout pass
 - 2026-07-06 responsive fixes
+- 2026-07-06 cache tuning
