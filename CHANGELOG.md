@@ -6,3 +6,4 @@
 - 2026-07-03 wire live feed
 - 2026-07-03 perf tune
 - 2026-07-05 polish header
+- 2026-07-06 layout pass
