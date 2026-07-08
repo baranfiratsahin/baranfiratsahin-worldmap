@@ -12,3 +12,4 @@
 - 2026-07-07 refactor render
 - 2026-07-07 layout pass
 - 2026-07-08 layout pass
+- 2026-07-08 cleanup
