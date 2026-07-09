@@ -15,3 +15,4 @@
 - 2026-07-08 cleanup
 - 2026-07-09 cache tuning
 - 2026-07-09 cache tuning
+- 2026-07-09 a11y pass
