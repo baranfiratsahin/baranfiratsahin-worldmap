@@ -16,3 +16,4 @@
 - 2026-07-09 cache tuning
 - 2026-07-09 cache tuning
 - 2026-07-09 a11y pass
+- 2026-07-09 responsive fixes
