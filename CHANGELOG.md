@@ -22,3 +22,4 @@
 - 2026-07-13 layout pass
 - 2026-07-13 polish header
 - 2026-07-13 layout pass
+- 2026-07-14 perf tune
