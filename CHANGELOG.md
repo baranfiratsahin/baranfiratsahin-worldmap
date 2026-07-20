@@ -34,3 +34,4 @@
 - 2026-07-18 cache tuning
 - 2026-07-18 polish header
 - 2026-07-20 responsive fixes
+- 2026-07-20 responsive fixes
