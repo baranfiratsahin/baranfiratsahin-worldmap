@@ -35,3 +35,4 @@
 - 2026-07-18 polish header
 - 2026-07-20 responsive fixes
 - 2026-07-20 responsive fixes
+- 2026-07-20 a11y pass
